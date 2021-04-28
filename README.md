@@ -23,7 +23,8 @@ Once you download the project, please follow this stepss:
 1. Open your text editor
 2. Go to constants and edit this one: CONST_SITE_DB_FILE
 3. Here you will put the DB name you'll create in your DBBrowser for SqLite (you can put the same as the one in the project)
-4. Go to DbBroser for SqLite and create the Db.
-5. Run you python clarinScrapper.py file, either manually or within your editor.
+4. Go to DbBroser for SqLite and open scrapper.db file that is container in the solution.
+6. Inside DB you will see two tables: sources (with aready 1 added) and news (the one that will be fed).
+7. Run you python clarinScrapper.py file, either manually or within your editor.
 
 Once you run the program you'll see the DB tables will begin to populate. It's your decision how you use the data from that moment on ;)
